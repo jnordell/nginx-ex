@@ -36,9 +36,9 @@ tags: [
 // Add a Featured category as the first category tab.
 window.OPENSHIFT_CONSTANTS.SERVICE_CATALOG_CATEGORIES.unshift({
 // Required. Must be unique.
-id: "featured",
+id: "acme",
 // Required
-label: "Featured",
+label: "Acme",
 subCategories: [
 {
 // Required. Must be unique.
